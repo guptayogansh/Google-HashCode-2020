@@ -1,5 +1,7 @@
 # Google HashCode 2020
 
+This repository contains my personal approach of the Book Scanning problem for HashCode 2020 
+
 ## My Personal Best Score
 
  1. a_example - 21 points
